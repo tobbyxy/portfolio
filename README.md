@@ -10,9 +10,8 @@
 ## Projects
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Quantitative Assessment of 	background choice in enrichment analysis		             
+## Quantitative Assessment of background choice in enrichment analysis		             
 
 
 ## Extracurricular
