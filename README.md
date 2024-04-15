@@ -1,6 +1,5 @@
-# Research Projects
+# Selected Projects
 
-#### Technical Skills: Python, R, Linux, Snowflake, MATLAB
 
 ## Skill Based Projects
 
@@ -17,10 +16,7 @@
 
 
 ## Extracurricular
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
 
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 -  Masters Thesis []
