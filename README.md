@@ -3,6 +3,21 @@
 
 ## Skill Based Projects
 
+## Single cell
+
+## statistics
+
+## writing/Articles
+
+
+## others
+Pagerank Algorithm Taiji
+Naive Bayes Classification
+Local Sequence Alignment
+Ames Housing
+
+
+
 
 ## Machine Learning
 
