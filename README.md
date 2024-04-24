@@ -3,6 +3,21 @@
 
 ## Skill Based Projects
 
+## Single cell
+
+## statistics
+
+## writing/Articles
+
+
+## others
+Pagerank Algorithm Taiji
+Naive Bayes Classification
+Local Sequence Alignment
+Ames Housing
+
+
+
 
 ## Machine Learning
 
@@ -10,9 +25,8 @@
 ## Projects
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Quantitative Assessment of 	background choice in enrichment analysis		             
+## Quantitative Assessment of background choice in enrichment analysis		             
 
 
 ## Extracurricular
